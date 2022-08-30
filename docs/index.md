@@ -1,5 +1,5 @@
 # Yonghyun's Website 
-![screenshot](images/Yong.png)
+![screenshot](images/Yong.png){: style="height:250px;width:250px" align=left }
 
 ## Education 
 ####University of Central Oklahoma<br /> 
