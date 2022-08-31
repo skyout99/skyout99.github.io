@@ -1,30 +1,23 @@
 site_name: Portfolio # Website name(comes on top left in nav bar)
-site_description: Software Engineer | CS Student #browser tab tooltip text
-site_author: Madhukar Shrestha #don't know where does it shows
+site_description: CS Student #browser tab tooltip text
+site_author: Yonghyun Kim #don't know where does it shows
 
 #Footer
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: 'https://www.linkedin.com/in/sthamadhukar/'
+      link: 'https://www.linkedin.com/in/yonghyun-kim-7895781b5/'
     - icon: fontawesome/brands/github
-      link: 'https://github.com/sthamadhukar'
-    - icon: fontawesome/brands/facebook
-      link: 'https://www.facebook.com/sthamadboy/'
-    - icon: fontawesome/brands/instagram
-      link: 'https://www.instagram.com/sthamadhukar/'
-    - icon: fontawesome/brands/twitter
-      link: '#' 
+      link: 'https://github.com/skyout99'
 
-
-copyright: Copyright &copy; 2022 <a href="https://www.linkedin.com/in/sthamadhukar/">Madhukar Shrestha</a>
+copyright: Copyright &copy; 2022 <a href="https://www.linkedin.com/in/yonghyun-kim-7895781b5/">Yonghyun Kim</a>
 
 #Theming
 theme:
     name: material
-    # palette:
-    #     primary: 'black'
-    #     accent: 'green'
+    palette:
+        scheme: 'slate'
+        primary: 'brown'
     #     # links_color : 'green' #todo, this is not the correct solution
         
     logo: 'assets/images/favicon.png'
@@ -39,9 +32,9 @@ theme:
             language: 'en'
             tokenizer: '[\s\-\.]+'
     features:
-      - navigation.top
-    #   - navigation.tabs
-    #   - navigation.tabs.sticky
+     # - navigation.top
+      - navigation.tabs
+      - navigation.tabs.sticky
       - toc.integrate
         
     # toc:
