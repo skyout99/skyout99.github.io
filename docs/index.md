@@ -2,7 +2,7 @@
 ![screenshot](images/Yong.png){: style="height:250px;width:250px" align=left }
 
 
-[Resume](resume/resume.txt)
+[Resume](images/Yonghyun_Kim_Resume.pdf)
 
 # Education 
 #### University of Central Oklahoma<br /> 
